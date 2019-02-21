@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\i386-win32\fpc.exe" Date="1301585266"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiD:\siemens_projects\lazarus_remove_device_driver_and_refresh_device_list\lib\i386-win32 -FuD:\siemens_projects\lazarus_remove_device_driver_and_refresh_device_list\ -FUD:\siemens_projects\lazarus_remove_device_driver_and_refresh_device_list\lib\i386-win32\ -FED:\siemens_projects\lazarus_remove_device_driver_and_refresh_device_list\ -oD:\siemens_projects\lazarus_remove_device_driver_and_refresh_device_list\remove_refresh_device_drivers.exe remove_refresh_device_drivers.lpr"/>
+</CONFIG>
