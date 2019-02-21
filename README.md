@@ -1,0 +1,3 @@
+# lazarus_remove_device_driver_and_refresh_device_list
+Run remove_refresh_device_drivers.exe /help
+and see help
